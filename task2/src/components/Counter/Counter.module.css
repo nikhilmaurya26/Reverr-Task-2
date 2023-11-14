@@ -1,0 +1,29 @@
+.mainbody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.calbody{
+    margin-top: 10px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    height: auto;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+.inputbox{
+    width: 100%;
+    height: 35px;
+    padding: 4px 12px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: end;
+}
